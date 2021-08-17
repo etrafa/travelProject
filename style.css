@@ -1,0 +1,83 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.norway {
+  background-image: url(./norway.jpeg);
+  background-size: cover;
+}
+
+.united-states {
+  background-image: url(./united-states.jpg);
+  background-size: cover;
+}
+
+.turkey {
+  background-image: url(./turkey.jpg);
+  background-size: cover;
+}
+
+.argentina {
+  background-image: url(./argentina.jpg);
+  background-size: cover;
+}
+
+.australia {
+  background-image: url(./australia.jpg);
+  background-size: cover;
+}
+
+.egypt {
+  background-image: url(./egypt.jpg);
+  background-size: cover;
+}
+
+.spain {
+  background-image: url(./spain.jpg);
+  background-size: cover;
+}
+
+.finland {
+  background: url(./finland.jpg);
+  background-size: cover;
+}
+
+.germany {
+  background-image: url(./germany.jpg);
+  background-size: cover;
+}
+
+.japan {
+  background-image: url(./japan.jpg);
+  background-size: cover;
+}
+
+.norway-background,
+.turkey-background,
+.argentina-background,
+.australia-background,
+.egypt-background,
+.spain-background,
+.finland-background,
+.germany-background,
+.japan-background {
+  width: 100%;
+  height: 657px;
+  padding-left: 300px;
+}
+
+.us-background {
+  width: 100%;
+  height: 657px;
+  padding-left: 300px;
+  margin-top: 50px;
+}
+
+h3 {
+  font-family: "Tourney", cursive;
+  font-size: 140px;
+  display: inline-block;
+  position: absolute;
+}
